@@ -1,0 +1,22 @@
+{
+  "name": "vuepress-typescript-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ablipan <ablipan@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vue/babel-preset-jsx": "^1.0.0",
+    "ts-loader": "^6.0.0",
+    "typescript": "^3.4.5",
+    "vue": "^2.6.10",
+    "vue-property-decorator": "^8.1.1",
+    "vuepress": "^0.14.11"
+  },
+  "dependencies": {
+    "tslib": "^2.3.1"
+  }
+}
