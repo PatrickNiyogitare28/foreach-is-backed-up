@@ -1,5 +1,10 @@
 module.exports = {
   title: 'BACKED-UP Foreach',
+  head: [
+    ['meta', { name: 'theme-color', content: '#4c0f75' }],
+    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
+  ],
   configureWebpack: {
     resolve: {
       extensions: ['.ts', '.tsx'],
@@ -53,7 +58,7 @@ themeConfig: {
       },
       {
         text: 'Github',
-        link: 'https://github.com/PatrickNiyogitare28/super-vite'
+        link: 'https://github.com/PatrickNiyogitare28/foreach-is-backed-up.git'
       }
     ],
     sidebar: {
