@@ -1,5 +1,10 @@
 # foreach is backedup
 
+free public [foreach](https://foreach.benax.rw) content registry, no authentication required. open source.
+
+## preview 
+
+
 If you get some compiling errors when using babel@^7.0.0, that's because Vuepress is using babel's beta version now, maybe some dependencies are not compatible with your babel's version, you can fix it by adding `resolutions` in `package.json`, eg:
 
 ```json

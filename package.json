@@ -1,8 +1,8 @@
 {
-  "name": "vuepress-typescript-demo",
+  "name": "foreach-is-backed-up",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "ablipan <ablipan@163.com>",
+  "author": "patrickniyogitare28@gmail.com",
   "license": "MIT",
   "scripts": {
     "docs:dev": "vuepress dev docs",
