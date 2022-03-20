@@ -1,9 +1,10 @@
 {
   "name": "foreach-is-backed-up",
-  "version": "0.1.0",
+  "version": "1.0.2",
   "description": "The free online foreach.benax.rw backup",
   "main": "index.js",
-  "author": "David Couronné",
+  "author": "Patrick Niyogitare",
+  "repository": "https://github.com/PatrickNiyogitare28/foreach-is-backed-up.git",
   "license": "MIT",
   "scripts": {
     "develop": "vuepress dev src",
