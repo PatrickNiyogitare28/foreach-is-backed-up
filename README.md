@@ -1,14 +1,6 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6a345131-c86a-4200-bc5d-4200e8e569d8/deploy-status)](https://app.netlify.com/sites/vuepress-tailwind/deploys)
-[![Build Status](https://travis-ci.org/DavidCouronne/vuepress-tailwind.svg?branch=master)](https://travis-ci.org/DavidCouronne/vuepress-tailwind)
+# Foreach Is Backed Up
 
-# Vuepress Tailwind CSS starter
-
-A simple Vuepress starter
-
-Demo: [https://vuepress-tailwind.netlify.com/](https://vuepress-tailwind.netlify.com/)
-
-<!-- Markdown snippet -->
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/DavidCouronne/vuepress-tailwind)
+The foreach.benax.rw free content backup registry
 
 ## Features
 
@@ -39,15 +31,6 @@ yarn build
 # upgrade dependencies
 yarn upgrade --latest
 ```
-
-## Notes
-
-- Check out these other Gridsome Starters where I got some ideas from:
-    - [Gridsome Starter Blog](https://github.com/gridsome/gridsome-starter-blog) - I got a lot of design inspiration from this starter theme.
-    - [Gridsome Portfolio Starter](https://github.com/drehimself/gridsome-portfolio-starter)
-
-# Custom
-
 ## Colors
 
 `src/.vuepress/theme/styles/config.styl`

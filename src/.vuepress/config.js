@@ -1,36 +1,97 @@
 
 
 module.exports = {
-  title: 'Hello VuePress',
+  title: 'F I B U',
   themeConfig: {
-    // Assumes GitHub. Can also be a full GitLab url.
-    repo: 'https://github.com/DavidCouronne/vuepress-tailwind',
-    // Customising the header label
-    // Defaults to "GitHub"/"GitLab"/"Bitbucket" depending on `themeConfig.repo`
+    repo: 'https://github.com/PatrickNiyogitare28/foreach-is-backed-up.git',
     repoLabel: 'Contribute!',
-
-    // Optional options for generating "Edit this page" link
-
-    // if your docs are in a different repo from your main project:
-    docsRepo: 'https://github.com/DavidCouronne/vuepress-tailwind',
-    // if your docs are not at the root of the repo:
+    docsRepo: 'https://github.com/PatrickNiyogitare28/foreach-is-backed-up.git',
     docsDir: 'src',
-    // if your docs are in a specific branch (defaults to 'master'):
     docsBranch: 'master',
-    // defaults to false, set to true to enable
     editLinks: true,
     // custom text for edit link. Defaults to "Edit this page"
     editLinkText: 'Help us improve this page!',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/content/' },
       { text: 'Blog', link: '/blog/' },
+      { text: 'AI', link: '/content/ai/'},
+      { text: 'Networking', link: '/content/networking/'},
+      { text: 'ADV Networking', link: '/content/advanced-networking/'},
+      { text: 'Net Security', link: '/content/net-security/'},
+      { text: 'Embedded Systems', link: '/content/embedded-systems/'},
     ],
     sidebar: {
-      '/content/': [
-        '',
-        'custom',
-        'internet'
+      '/content/ai/': [
+        {
+          title: 'Artificial Intelligence',
+          collapsable: false,
+          children: [
+            '',
+            'introduction',
+          ]
+        },
+      ],
+      '/content/networking/': [
+        {
+          title: 'Networking',
+          collapsable: false,
+          children: [
+            '',
+            'custom',
+            'internet'  
+          ]
+        },
+      ],
+      '/content/advanced-networking/': [
+        {
+          title: 'Advanced Networking',
+          collapsable: false,
+          children: [
+            '',
+            {
+              title: 'Introduction',
+              collapsable: true,
+              children: [
+                'introduction/overview',
+                'introduction/reviewing-fundamentals'
+              ]
+            },
+            {
+              title: 'Routing',
+              collapsable: true,
+              children: [
+                {
+                  title: 'Cisco Router',
+                  collapsable: true,
+                  children: [
+                    'routing/cisco-router/introduction',
+                    'routing/cisco-router/cisco-routers-interfaces',
+                  ]
+                },
+              ]
+            },
+          ]
+        },
+      ],
+      '/content/net-security/': [
+        {
+          title: 'Networking Security',
+          collapsable: false,
+          children: [
+            '',
+            'introduction',  
+          ]
+        },
+      ],
+      '/content/embedded-systems/': [
+        {
+          title: 'Embedded Systems',
+          collapsable: false,
+          children: [
+            '',
+            'introduction', 
+          ]
+        },
       ]
     }
   },
