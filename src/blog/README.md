@@ -1,7 +1,7 @@
 ---
 blogpage: true
 title: Blog Start Page
-description: Welcome To My Blogs
+description: Getting started with contributing
 blog_index: true
 ---
 

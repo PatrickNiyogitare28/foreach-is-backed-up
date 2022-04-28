@@ -1,51 +1,15 @@
 ---
-title: Get Started
-description: Simple description
+title: Getting started
+description: Getting started with Networking Security
 ---
 
-## Vuepress Tailwind CSS starter
+# Getting Started
 
-A simple Vuepress starter with Tailwind CSS
+![banner image](http://safebytes.com/wp-content/uploads/2016/02/network-security.jpg)
 
-Demo: [https://vuepress-tailwind.netlify.com/](https://vuepress-tailwind.netlify.com/)
+<br>
+Network security is a broad term that covers a multitude of technologies, devices and processes. In its simplest term, it is a set of rules and configurations designed to protect the integrity, confidentiality and accessibility of computer networks and data using both software and hardware technologies. Every organization, regardless of size, industry or infrastructure, requires a degree of network security solutions in place to protect it from the ever-growing landscape of cyber threats in the wild today.
 
-
-## Features
-
-- [Tailwind CSS v1.x](https://tailwindcss.com) 
-- Theme Switcher with Dark Mode
-- [@vuepress/plugin-pwa](https://v1.vuepress.vuejs.org/plugin/official/plugin-pwa.html)
-- Blog
-- Accordion component
-
-## Installation
-
-```bash
-# install vuepress globally
-yarn global add vuepress@next # OR npm install -g vuepress@next
-
-# clone or download repository
-
-# install dependencies
-yarn # OR npm install
-
-# start writing
-yarn develop
-
-# build
-yarn build
-
-# upgrade dependencies
-yarn upgrade --latest
-```
-
-## Notes
-
-- Check out these Gridsome Starters where I got some ideas from:
-    - [Gridsome Starter Blog](https://github.com/gridsome/gridsome-starter-blog) - I got a lot of design inspiration from this starter theme.
-    - [Gridsome Portfolio Starter](https://github.com/drehimself/gridsome-portfolio-starter)
-
-
-
-
+<br><br>
+Today's network architecture is complex and is faced with a threat environment that is always changing and attackers that are always trying to find and exploit vulnerabilities. These vulnerabilities can exist in a broad number of areas, including devices, data, applications, users and locations. For this reason, there are many network security management tools and applications in use today that address individual threats and exploits and also regulatory non-compliance. When just a few minutes of downtime can cause widespread disruption and massive damage to an organization's bottom line and reputation, it is essential that these protection measures are in place.
 
