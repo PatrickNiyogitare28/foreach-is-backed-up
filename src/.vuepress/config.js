@@ -37,8 +37,7 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'custom',
-            'internet'  
+            'introduction'
           ]
         },
       ],
