@@ -54,7 +54,7 @@ This work is [MIT](https://github.com/PatrickNiyogitare28/foreach-is-backed-up/b
 
 patrickniyogitare28@gmail.com
 
-## Awesome Contributor
+## Awesome Contributors
 
 We appreciate the contributors to the platform building
 
