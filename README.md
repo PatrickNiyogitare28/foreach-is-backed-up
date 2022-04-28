@@ -54,4 +54,15 @@ This work is [MIT](https://github.com/PatrickNiyogitare28/foreach-is-backed-up/b
 
 patrickniyogitare28@gmail.com
 
+## Awesome Contributor
+
+We appreciate the contributors to the platform building
+
+|  Name |  Github |  Twitter | 
+|---|---|---|
+|  Patrick Niyogitare |  [patrickniyogitare28](https://github.com/patrickniyogitare28) |  [@niyogitare](https://twitter.com/niyogitare) |
+|   |   |   |
+|   |   |   |
+
+
 - [foreach]: https://foreach.benax.rw
