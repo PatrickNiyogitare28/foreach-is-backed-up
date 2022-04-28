@@ -48,7 +48,7 @@ Read our [CONTRIBUTING](https://github.com/PatrickNiyogitare28/foreach-is-backed
 
 ## License
 
-This work is [MIT]() licensed 
+This work is [MIT](https://github.com/PatrickNiyogitare28/foreach-is-backed-up/blob/master/LICENSE) licensed 
 
 ## Maintainer
 
