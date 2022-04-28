@@ -4,9 +4,9 @@ The foreach.benax.rw free content backup registry
 
 ![Build Workflows](https://github.com/PatrickNiyogitare28/foreach-is-backed-up/actions/workflows/build.yml/badge.svg)
 ![Build Workflows](https://github.com/PatrickNiyogitare28/foreach-is-backed-up/actions/workflows/codeql-analysis.yml/badge.svg)
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/PatrickNiyogitare28/foreach-is-backed-up/blob/master/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/PatrickNiyogitare28/foreach-is-backed-up/blob/master/CONTRIBUTION.md)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/PatrickNiyogitare28/foreach-is-backed-up/blob/master/CONTRIBUTOR_COVENANT.md)
 
 
 ## Installation
