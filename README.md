@@ -1,16 +1,6 @@
 # Foreach Is Backed Up
 
 The foreach.benax.rw free content backup registry
-
-## Features
-
-
-- [Tailwind CSS v1.0](https://tailwindcss.com) 
-- Theme Switcher with Dark Mode
-- [@vuepress/plugin-pwa](https://v1.vuepress.vuejs.org/plugin/official/plugin-pwa.html)
-- Blog
-- Accordion component
-
 ## Installation
 
 ```bash
@@ -31,16 +21,29 @@ yarn build
 # upgrade dependencies
 yarn upgrade --latest
 ```
-## Colors
 
-`src/.vuepress/theme/styles/config.styl`
+## Contributing
 
-| CSS Variables  | Vuepress Variables | Tailwind            | Note |
-|----------------|--------------------|---------------------|------|
-| --body-color   | $textColor         | primary             |      |
-| --accent-color | $accentColor       | accent              |      |
-| --accent-hover |                    | accenthover         |      |
-| --border-color | $borderColor       | borderColor-primary |      |
-| --bg-color     |                    | background-primary  |      |
-| --bg-content   |                    | background-content  |      |
-| --bg-code      | $codeBgColor       | background-code     |      |
+The contribution which migrates a content from [foreach] is highly valuable and considered.
+
+Issuing requests are all welcomed as well
+
+`src/blog` includes minimal guid to how one can add a new content to this platform.
+
+The same guid can be found [here](https://foreach-is-backed-up.vercel.app/blog/)
+
+> **The moment you contribute don't forget to add your self under [CONTRIBUTORS](https://github.com/PatrickNiyogitare28/foreach-is-backed-up/commit/242f2bee00d11bfc2d072a44076c201aacc4cc88)**
+
+Read our [CONTRIBUTING](https://github.com/PatrickNiyogitare28/foreach-is-backed-up/blob/master/CONTRIBUTORS.md) and [CONTRIBUTOR COVENANT](https://github.com/PatrickNiyogitare28/foreach-is-backed-up/blob/master/CONTRIBUTOR_COVENANT.md) for more of contributing practices and terms.
+
+
+
+## License
+
+This work is [MIT]() licensed 
+
+## Maintainer
+
+patrickniyogitare28@gmail.com
+
+- [foreach]: https://foreach.benax.rw
