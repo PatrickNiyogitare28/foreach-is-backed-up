@@ -8,17 +8,19 @@ actionText: Get Started →
 actionLink: /content/
 features:
 - title: Artificial Intelligence
-  details: Free accessibly AI based resources
+  details: Free accessibly AI based resources migrated from foreach.benax
 - title: Networking
-  details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
+  details: All Networking content synced for free access 
 - title: Networking Security
-  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+  details: Migrated networking security concepts, theories and practice guidances 
 - title: Advanced Networking
-  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+  details: Availed networking security contents, open for free use and contribution
 - title: Embedded System
-  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+  details: Embedded systems contents for levelup usage and practical guidance
 - title: Awesome Contributors
-  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+  details: Visit the list of awesome content contributors.
+- title: Contributing
+  details: Included the documentation guides to migrate a new content to the registry. Open for issues and PRs 
 footer: MIT Licensed | Copyright © 2022 - present Patrick Niyogitare
 ---
 
